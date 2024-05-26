@@ -16,11 +16,13 @@ Para executar este projeto, você deve primeiro instalar as dependências necess
 
 ```bash
 pip install -r requirements.txt
-
+```
 ## Uso
 
 Para iniciar a aplicação, execute o seguinte comando no terminal:
+```bash
 streamlit run main.py
+```
 
 Acesse a aplicação pelo navegador usando o endereço fornecido (geralmente http://localhost:8501). Use a interface do Streamlit para inserir termos de pesquisa e obter dados de empresas em tempo real
 
